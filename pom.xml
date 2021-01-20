@@ -17,7 +17,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <spring.version>4.1.4.RELEASE</spring.version>
-    <jackson.version>2.5.0</jackson.version>
+    <jackson.version>2.12.1</jackson.version>
 
     <!-- redis 版本 -->
     <redis.version>2.9.0</redis.version>
